@@ -1,0 +1,27 @@
+test
+submit retterstol@gmail.com 
+[info]   at forcomp.AnagramsSuite$$anonfun$11.apply$mcV$sp(AnagramsSuite.scala:100)
+[info]   at forcomp.AnagramsSuite$$anonfun$11.apply(AnagramsSuite.scala:76)
+[info]   at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)
+[info]   at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+[info]   at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:22)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:20)
+[info]   ...
+[info] Run completed in 288 milliseconds.
+[info] Total number of tests run: 11
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 9, failed 2, canceled 0, ignored 0, pending 0
+[info] *** 2 TESTS FAILED ***
+[error] Failed tests:
+[error]         forcomp.AnagramsSuite
+[error] (test:test) sbt.TestsFailedException: Tests unsuccessful
+[error] Total time: 1 s, completed 10.okt.2019 15:09:40
+> submit retterstol@gmail.com
+> submit retterstol@gmail.com ZZZvZwtaFK4YlkB7
+submit retterstol@gmail.com ZZZvZwtaFK4YlkB7
+test
+submit retterstol@gmail.com ZZZvZwtaFK4YlkB7
+test
+submit retterstol@gmail.com ZZZvZwtaFK4YlkB7
+test
